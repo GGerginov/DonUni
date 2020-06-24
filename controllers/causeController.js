@@ -1,5 +1,6 @@
 import models from '../models/indexModel.js'
 import helper from '../utills/helper.js'
+import homeController from './homeController.js';
 
 
 export default {
@@ -99,6 +100,8 @@ export default {
                 let donation = context.params.currentDonation;
 
 
+                context.redirect('#/cause/dashboard')
+                
 
             })
             .catch(e => {

@@ -1,15 +1,15 @@
 
   // Your web app's Firebase configuration
   const firebaseConfig = {
-    apiKey: "AIzaSyD6s0TYbGx4dvuJj-QITXcSV6jhiX9Nxak",
-    authDomain: "fir-2d25d.firebaseapp.com",
-    databaseURL: "https://fir-2d25d.firebaseio.com",
-    projectId: "fir-2d25d",
-    storageBucket: "fir-2d25d.appspot.com",
-    messagingSenderId: "294867513798",
-    appId: "1:294867513798:web:3cd2d6d8b1f6bc400bc2c7",
-    measurementId: "G-DVK5M6E3KN"
-  };
+    apiKey: "AIzaSyBWHYwC9t61ZKf4UKSkCxC6EazFQrqy1uo",
+    authDomain: "donuni-66d7e.firebaseapp.com",
+    databaseURL: "https://donuni-66d7e.firebaseio.com",
+    projectId: "donuni-66d7e",
+    storageBucket: "donuni-66d7e.appspot.com",
+    messagingSenderId: "900646115239",
+    appId: "1:900646115239:web:37339ce85257546f42c882",
+    measurementId: "G-54VQX59X7R"
+  }; 
   // Initialize Firebase
   firebase.initializeApp(firebaseConfig);
 
@@ -23,3 +23,6 @@
   //     }
   //   }
   // }
+
+
+
